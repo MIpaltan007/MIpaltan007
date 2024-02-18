@@ -1,7 +1,6 @@
 [![MIpaltan007's GitHub | Stats](https://stats.quine.sh/MIpaltan007/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MIpaltan007)
 [![MIpaltan007's GitHub | Dependencies](https://stats.quine.sh/MIpaltan007/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MIpaltan007)
-[![MIpaltan007's GitHub | Topics Over Time](https://stats.quine.sh/MIpaltan007/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MIpaltan007)
-[![MIpaltan007's GitHub | Languages Over Time](https://stats.quine.sh/MIpaltan007/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MIpaltan007)
+
 <h1 align="center">Hi 👋, I'm Aditya Bikram Jena</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
