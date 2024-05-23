@@ -18,7 +18,7 @@
 
 - 📫 Reach me **adityabikramjena2002@gmail.com or 9866435177**
 
-- ⚡ Fun fact **Meri Ek Taang Nakli Hai**
+- ⚡ Fun fact **Meri Ek Taang Nakli Hai,Me Hockey ka bahut badda khiladi tha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
