@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Web Development, Data Analysis, DSA**
 
--  👨‍💻 All of my projects are available at [My Portfolio](https://adityabikramjena-yx1r8r1.gamma.site/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adityabikramjena-yx1r8r1.gamma.site/)
 
 - 💬 Ask me about **College Life, Cricket and Entertainment**
 
-- 📫 Reach me **adityabikramjena2002@gmail.com**
+- 📫 Reach me on **adityabikramjena2002@gmail.com**
 
--  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q0qwHyQW4KjPX2PMUcBkrcrSKP79bdL1/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1Q0qwHyQW4KjPX2PMUcBkrcrSKP79bdL1/view?usp=sharing)
 
 - ⚡ Fun fact **Meri Ek Taang Nakli Hai, Me Hockey ka bahut badda khiladi tha**
 
