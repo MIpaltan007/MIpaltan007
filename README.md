@@ -16,11 +16,11 @@
 
 - 💬 Ask me about **College Life, Cricket and Entertainment**
 
-- 📫 Reach me **adityabikramjena2002@gmail.com or 9866435177**
+- 📫 Reach me **adityabikramjena2002@gmail.com**
 
 -  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q0qwHyQW4KjPX2PMUcBkrcrSKP79bdL1/view?usp=sharing)
 
-- ⚡ Fun fact **Meri Ek Taang Nakli Hai,Me Hockey ka bahut badda khiladi tha**
+- ⚡ Fun fact **Meri Ek Taang Nakli Hai, Me Hockey ka bahut badda khiladi tha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
